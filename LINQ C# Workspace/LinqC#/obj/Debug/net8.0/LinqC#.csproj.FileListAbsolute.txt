@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\bin\Debug\net8.0\LinqC#.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\bin\Debug\net8.0\LinqC#.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\bin\Debug\net8.0\LinqC#.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\bin\Debug\net8.0\LinqC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\bin\Debug\net8.0\LinqC#.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\refint\LinqC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\LinqC#.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\LINQ C# Workspace\LinqC#\obj\Debug\net8.0\ref\LinqC#.dll

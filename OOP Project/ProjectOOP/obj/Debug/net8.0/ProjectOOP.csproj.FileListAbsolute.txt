@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\bin\Debug\net8.0\ProjectOOP.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\bin\Debug\net8.0\ProjectOOP.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\bin\Debug\net8.0\ProjectOOP.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\bin\Debug\net8.0\ProjectOOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\bin\Debug\net8.0\ProjectOOP.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\refint\ProjectOOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ProjectOOP.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\OOP Project\ProjectOOP\obj\Debug\net8.0\ref\ProjectOOP.dll

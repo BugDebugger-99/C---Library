@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\bin\Debug\net8.0\Comsat_Ppr.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\bin\Debug\net8.0\Comsat_Ppr.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\bin\Debug\net8.0\Comsat_Ppr.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\bin\Debug\net8.0\Comsat_Ppr.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\bin\Debug\net8.0\Comsat_Ppr.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\refint\Comsat_Ppr.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\Comsat_Ppr.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Comsats Project\Comsat_Ppr\obj\Debug\net8.0\ref\Comsat_Ppr.dll

@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\bin\Debug\net8.0\CableOP.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\bin\Debug\net8.0\CableOP.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\bin\Debug\net8.0\CableOP.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\bin\Debug\net8.0\CableOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\bin\Debug\net8.0\CableOP.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\refint\CableOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\ref\CableOP.dll

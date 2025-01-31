@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\bin\Debug\net8.0\Practice_Area.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\bin\Debug\net8.0\Practice_Area.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\bin\Debug\net8.0\Practice_Area.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\bin\Debug\net8.0\Practice_Area.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\bin\Debug\net8.0\Practice_Area.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\refint\Practice_Area.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\Practice_Area.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Practice Area\Practice_Area\obj\Debug\net8.0\ref\Practice_Area.dll

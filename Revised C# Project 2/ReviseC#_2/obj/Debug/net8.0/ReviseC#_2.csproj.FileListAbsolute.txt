@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\bin\Debug\net8.0\ReviseC#_2.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\bin\Debug\net8.0\ReviseC#_2.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\bin\Debug\net8.0\ReviseC#_2.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\bin\Debug\net8.0\ReviseC#_2.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\bin\Debug\net8.0\ReviseC#_2.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\refint\ReviseC#_2.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ReviseC#_2.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project 2\ReviseC#_2\obj\Debug\net8.0\ref\ReviseC#_2.dll

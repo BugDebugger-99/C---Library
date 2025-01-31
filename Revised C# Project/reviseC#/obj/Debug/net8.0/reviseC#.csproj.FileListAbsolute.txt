@@ -1,0 +1,14 @@
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\bin\Debug\net8.0\reviseC#.exe
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\bin\Debug\net8.0\reviseC#.deps.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\bin\Debug\net8.0\reviseC#.runtimeconfig.json
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\bin\Debug\net8.0\reviseC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\bin\Debug\net8.0\reviseC#.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.AssemblyInfoInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.AssemblyInfo.cs
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.csproj.CoreCompileInputs.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\refint\reviseC#.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.pdb
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\reviseC#.genruntimeconfig.cache
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Revised C# Project\reviseC#\obj\Debug\net8.0\ref\reviseC#.dll
