@@ -26,9 +26,3 @@ Make sure you have the following software installed:
 - **.NET SDK**: [Download .NET SDK](https://dotnet.microsoft.com/download/dotnet)
 - **Visual Studio Code** (VS Code) or **Visual Studio**: [Download VS Code](https://code.visualstudio.com/)
 
-### Cloning the Repository
-
-Clone the repository to your local machine using Git:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
