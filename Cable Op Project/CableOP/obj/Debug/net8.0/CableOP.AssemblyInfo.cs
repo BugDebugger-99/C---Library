@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CableOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c382cfcd700e31e70f919ff9493b44dadd0499")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12acf3d2a2f8aa867f724da6f98a1a0f2fb3816b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CableOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CableOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
