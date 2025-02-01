@@ -12,3 +12,4 @@ C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\C
 C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.pdb
 C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.genruntimeconfig.cache
 C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\ref\CableOP.dll
+C:\Users\M A D I N A\OneDrive\Desktop\Dotnet Development Area\Cable Op Project\CableOP\obj\Debug\net8.0\CableOP.sourcelink.json

@@ -37,7 +37,6 @@ namespace CxManager
                     break;
                 }
             }
-
         }
 
 
